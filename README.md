@@ -8,5 +8,5 @@
 ------
 ##### Also, think of this app when you need to document parameters during Fab Academy!
 ------
-##### romain and alexandre from [Fablab Digiscope] (www.fablabdigiscope.wordpress.com).
+##### Romain and alexandre from [Fablab Digiscope] (www.fablabdigiscope.wordpress.com).
 ------
