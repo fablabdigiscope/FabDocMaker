@@ -10,4 +10,4 @@
 ------
 ##### Romain and alexandre from.
 ------
-##### [Fablab Digiscope] (www.fablabdigiscope.wordpress.com)
+##### [Fablab Digiscope] (http://fablabdigiscope.wordpress.com)
